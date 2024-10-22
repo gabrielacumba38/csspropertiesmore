@@ -11,15 +11,15 @@ div{
 }
 #box2{
     background-color: green;
-    position: relative;
+    /*position: relative;
     top: 100px;
-    left: 30px 
+    left: 30px*/
 
 }
 #box3{
     background-color: blue;
-    position: absolute;
+   /* position: absolute;
     color: white;
     top: 100px;
-    left: 30px;
+    left: 30px; */
 }
