@@ -1,0 +1,25 @@
+div{
+    width: 150px;
+    height: 150px;
+    background-color: coral;
+    border: 2px black solid;
+    display: inline-block
+}
+#box1{
+    position: static;
+    top: 100px
+}
+#box2{
+    background-color: green;
+    position: relative;
+    top: 100px;
+    left: 30px 
+
+}
+#box3{
+    background-color: blue;
+    position: absolute;
+    color: white;
+    top: 100px;
+    left: 30px;
+}
