@@ -7,20 +7,22 @@ div{
 }
 #box1{
     position: static;
-    top: 100px
+    top: 100px;
+    left: 100ppx
 }
 #box2{
     background-color: green;
-    *position: absolute;
-    top: 100px;
-    left: 30px
+    position: fixed;
+    width:100vw;
+    left: 0px;
+    bottom: 0px
 }
 #box3{
     background-color: blue;
-   /* position: absolute;
+   /*position: absolute;*/
     color: white;
     top: 100px;
-    left: 30px; */
+    left: 30px; 
 }
 #box4{
     position: fixed;
